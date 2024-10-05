@@ -22,16 +22,12 @@ A highly skilled **Data Analyst** with a strong background in **Data Analytics**
 | Technical Skills                          | Software Skills      | Soft Skills            |
 | ----------------------------------------- | -------------------- | ---------------------- |
 | Statistical Methods                       | Tableau              | Communication Skills   |
-| Machine Learning Algorithms               | SAP                  | Time Management        |
 | Supervised and Unsupervised ML Algorithms | Power BI             | Teamwork               |
-| Data Sanitation                           | Jupyter Notebook     | Problem-solving        |
-| Natural Language Processing (NLP)         | Power Platform       | Adaptability           |
+| Data Sanitation                           | Jupyter Notebook     | Problem-solving        | 
 | Data Modeling                             | Power Automate       | Creativity             |
 | SQL                                       | Power Apps           | Emotional Intelligence |
-| Python                                    | Google Firebase      | Critical Thinking      |
-|                                           | AWS Cloud            | Decision Making        |
-|                                           | Linux                |                        |
-|                                           | Microsoft Office 365 |                        |
+| Python                                    | Google Firebase      | Critical Thinking      |         
+|                                           | Microsoft Office 365 | Decision Making        |               
 
 ## Languages
 
@@ -69,4 +65,4 @@ A highly skilled **Data Analyst** with a strong background in **Data Analytics**
 
 ## Certifications
 
-- **[Data Analyst Interndhip (AiVariant)](file:///C:/Users/krish/Downloads/Pawale%20Krishna%20Balwant%20-AI%20DA-14685%20(1).pdf)** - Mar 2024
+- **[Data Analyst Internship (AiVariant)](file:///C:/Users/krish/Downloads/Pawale%20Krishna%20Balwant%20-AI%20DA-14685%20(1).pdf)** - Mar 2024
